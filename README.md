@@ -1,5 +1,9 @@
 [TOC]
 
+**感谢大佬开源：https://github.com/wnlen/clash-for-linux** 
+
+这里仅仅修改了start.sh脚本中关于clash配置文件的下载部分，改为使用本地的clash.yaml配置文件。将clash.yaml文件放到temp目录下即可。
+
 # 项目介绍
 
 此项目是通过使用开源项目[clash](https://github.com/Dreamacro/clash)作为核心程序，再结合脚本实现简单的代理功能。
